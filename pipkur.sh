@@ -1,0 +1,1 @@
+python3.12 -m pip install -U --break-system-packages cemirutils
